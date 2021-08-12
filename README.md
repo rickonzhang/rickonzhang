@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🤔 I’m Rickon Zhang
+- 💬 I'm a backend and algorithm intern in rct AI 
+- 🔭 I’m currently working on rct AI
+- 🌱 I’m currently learning ML
 <!--
 **rickonzhang/rickonzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
